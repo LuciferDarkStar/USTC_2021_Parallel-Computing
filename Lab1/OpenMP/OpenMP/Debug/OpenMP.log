@@ -1,0 +1,3 @@
+﻿  PSRS.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  OpenMP.vcxproj -> C:\Users\Lucifer.dark\Desktop\2021春\并行计算\Lab1\OpenMP\Debug\OpenMP.exe
